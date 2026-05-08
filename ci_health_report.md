@@ -30,6 +30,7 @@ ok
 Summary: 0 error(s), 0 warning(s)
 ```
 
+<<<<<<< HEAD
 ## Actions Taken This Run
 
 **Issue Detected:** CI run 25572796356 failed with 3 stale repos and 1 archived repo:
@@ -45,6 +46,23 @@ Summary: 0 error(s), 0 warning(s)
 ## Previous Issues Fixed (May 6-8, 2026)
 
 Earlier runs removed 17+ stale/archived entries:
+=======
+## Recent Auto-Fixes Applied (May 8, 2026)
+
+**Batch 8 (Run 25544538815):** 4 stale repos removed
+- deepseek-ai/deepseek-vl2 (stale 435 days)
+- moonshotai/kimi-vl (stale 296 days)
+- bytedance-seed/seed1.5-vl (stale 327 days)
+- modelscope/clearervoice-studio (stale 266 days)
+
+**Earlier Batch (Run 25547613723):** 2 repos removed
+- pinecone-io/canopy (stale 541 days, archived)
+- truefoundry/cognita (archived)
+
+## Previous Issues Fixed (May 6-7, 2026)
+
+Earlier runs removed 7 stale entries:
+>>>>>>> 2dd7091fc4bfeb73ad5f5fb51c1511364f0c537a
 - haotian-liu/LLaVA (stale 631 days)
 - deepseek-ai/Janus (stale 458 days)
 - VITA-MLLM/VITA (stale 403 days)
@@ -52,6 +70,7 @@ Earlier runs removed 17+ stale/archived entries:
 - RainBowLuoCS/OpenOmni (low stars: 139 < 1000)
 - open-mmlab/mmpretrain (stale 550 days)
 - protectai/rebuff (stale 636 days, archived)
+<<<<<<< HEAD
 - pinecone-io/canopy (stale 541 days, archived)
 - truefoundry/cognita (archived)
 - deepseek-ai/deepseek-vl2 (stale 435 days)
@@ -59,6 +78,8 @@ Earlier runs removed 17+ stale/archived entries:
 - bytedance-seed/seed1.5-vl (stale 327 days)
 - modelscope/clearervoice-studio (stale 266 days)
 - microsoft/TRELLIS (stale 184 days) - removed this run
+=======
+>>>>>>> 2dd7091fc4bfeb73ad5f5fb51c1511364f0c537a
 
 ## Current List Health
 
@@ -72,12 +93,21 @@ Earlier runs removed 17+ stale/archived entries:
 
 ## Summary Stats
 
+<<<<<<< HEAD
 - **Total entries processed:** 1
 - **Stale repos removed:** 1 (microsoft/TRELLIS)
 - **Archived repos removed:** 0
 - **Duplicates removed:** 0
 - **Broken links fixed:** 0
 - **Max entries per run limit:** 5 (1 processed, 4 remaining capacity)
+=======
+- **Total entries processed today:** 0 (no fixes needed)
+- **Stale repos removed today:** 0
+- **Archived repos removed today:** 0
+- **Duplicates removed today:** 0
+- **Max entries per run limit:** 5 (not reached - 0 fixes needed)
+- **Total entries removed this cycle:** 13
+>>>>>>> 2dd7091fc4bfeb73ad5f5fb51c1511364f0c537a
 
 ## Notes
 
@@ -86,4 +116,8 @@ Earlier runs removed 17+ stale/archived entries:
 - All repos are active within the 183-day threshold
 - No archived or disabled repositories detected
 - Main branch is healthy and accepting new contributions
+<<<<<<< HEAD
 - Last automated fix: May 9, 2026 (commit 03121ce)
+=======
+- Node.js 20 deprecation warning present (non-blocking)
+>>>>>>> 2dd7091fc4bfeb73ad5f5fb51c1511364f0c537a
