@@ -692,7 +692,6 @@
 
 #### 3D & Creative Tools
 
-- **[Trellis (Microsoft)](https://github.com/microsoft/TRELLIS)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS?style=social) - Structured 3D latents for high-quality generation.
 - **[gsplat (3D Gaussian Splatting tools)](https://github.com/nerfstudio-project/gsplat)** ![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/gsplat?style=social) - High-performance 3D Gaussian Splatting library.
 - **[LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio)** ![GitHub stars](https://img.shields.io/github/stars/MrNeRF/LichtFeld-Studio?style=social) - Native application for training, editing, and exporting 3D Gaussian Splatting scenes with MCMC optimization and timelapse generation. GPL-3.0 licensed.
 - **[OpenSplat](https://github.com/pierotofy/OpenSplat)** ![GitHub stars](https://img.shields.io/github/stars/pierotofy/OpenSplat?style=social) - Production-grade, portable implementation of 3D Gaussian Splatting with CPU/GPU support for Windows, Mac, and Linux. Creates 3D scenes from camera poses and sparse points. AGPL-3.0 licensed.
@@ -904,10 +903,6 @@
 - **[MLE-bench (OpenAI)](https://github.com/openai/mle-bench)** ![GitHub stars](https://img.shields.io/github/stars/openai/mle-bench?style=social) - Benchmark for measuring how well AI agents perform at machine learning engineering. Evaluates agents on 75 Kaggle competitions covering diverse ML tasks. MIT licensed.
 - **[WebArena](https://github.com/web-arena-x/webarena)** ![GitHub stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=social) - Realistic web environment for building and evaluating autonomous agents. Self-hostable benchmark with 812 diverse web tasks across shopping, CMS, Reddit, GitLab, and more. ICLR 2024. MIT licensed.
 - **[PinchBench](https://github.com/pinchbench/skill)** ![GitHub stars](https://img.shields.io/github/stars/pinchbench/skill?style=social) - Benchmarking system for evaluating LLM models as OpenClaw coding agents. Built with Rust by the kilo.ai team. MIT licensed.
-- **[AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)** ![GitHub stars](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval?style=social) - Automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast evaluation with 1,984+ stars. From Stanford's Tatsu Lab. Apache 2.0 licensed.
-
-- **[BigCode Evaluation Harness](https://github.com/bigcode-project/bigcode-evaluation-harness)** ![GitHub stars](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness?style=social) - Framework for evaluating autoregressive code generation language models. Comprehensive evaluation suite for code LLMs with 1,042+ stars. Apache 2.0 licensed.
-
 
 #### Evaluation Frameworks
 
