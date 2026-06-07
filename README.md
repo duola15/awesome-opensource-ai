@@ -223,12 +223,9 @@ Good entries should have a clear reason to exist. They should help people build,
 - [RWKV](https://github.com/BlinkDL/RWKV-LM) - Attention-free language model architecture with linear-time inference, training code, inference examples, and an active open-source ecosystem. ![GitHub stars](https://img.shields.io/github/stars/BlinkDL/RWKV-LM?style=social)
 - [Qwen](https://github.com/QwenLM/Qwen3) - Canonical open model family from Alibaba with model cards, inference examples, fine-tuning guidance, and ecosystem links. ![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3?style=social)
 - [MiniCPM](https://github.com/OpenBMB/MiniCPM) - Compact open model family with practical code, deployment notes, and active edge/on-device focus. ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM?style=social)
-- [OLMo](https://github.com/allenai/OLMo) - Fully open language model family from Ai2 with transparent training code, data references, checkpoints, and evaluation materials. ![GitHub stars](https://img.shields.io/github/stars/allenai/OLMo?style=social)
 - [Llama Models](https://github.com/meta-llama/llama-models) - Meta's canonical repository for Llama model documentation, examples, safety materials, and integration guidance. ![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-models?style=social)
 - [GPT-OSS](https://github.com/openai/gpt-oss) - OpenAI open-weight model repository with inference examples, recipes, and deployment guidance. ![GitHub stars](https://img.shields.io/github/stars/openai/gpt-oss?style=social)
-- [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Open coding-model family with model releases, evaluation details, and examples for code generation and agentic coding workflows. ![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=social)
 - [Mamba](https://github.com/state-spaces/mamba) - State Space Model implementation with pretrained checkpoints, architecture code, and research tooling for efficient long-sequence modeling. ![GitHub stars](https://img.shields.io/github/stars/state-spaces/mamba?style=social)
-- [Pythia](https://github.com/EleutherAI/pythia) - Interpretability-focused language model suite with public checkpoints, training details, and tools for studying model behavior. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/pythia?style=social)
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - Large-scale language model training codebase from EleutherAI with distributed training support and historical open-model importance. ![GitHub stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social)
 
 #### Multimodal & Vision-Language Codebases
@@ -248,7 +245,6 @@ Good entries should have a clear reason to exist. They should help people build,
 - [NVIDIA NeMo](https://github.com/NVIDIA-NeMo/NeMo) - Scalable framework and model codebase for speech, language, and multimodal AI with recipes and deployment guidance. ![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/NeMo?style=social)
 - [Sherpa-ONNX](https://github.com/k2-fsa/sherpa-onnx) - Complete speech toolkit with ASR, TTS, diarization, source separation, and VAD across embedded and edge environments via ONNX Runtime. ![GitHub stars](https://img.shields.io/github/stars/k2-fsa/sherpa-onnx?style=social)
 - [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - Open speech and sound generation family focused on expressive, long-form text-to-speech with streaming and multi-speaker support. ![GitHub stars](https://img.shields.io/github/stars/OpenMOSS/MOSS-TTS?style=social)
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) - CTranslate2 implementation of Whisper for faster batched and quantized inference. ![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social)
 - [SpeechBrain](https://github.com/speechbrain/speechbrain) - PyTorch speech toolkit with recipes for ASR, TTS, speaker recognition, and speech enhancement. ![GitHub stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social)
 
 ---
