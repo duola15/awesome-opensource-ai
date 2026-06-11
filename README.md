@@ -675,6 +675,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Helios (PKU-YuanGroup)](https://github.com/PKU-YuanGroup/Helios) - Efficient long-video generation framework with 24GB VRAM support for up to 10,000 frames (5+ minutes) and 1280×768 resolution. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social)
 - [Pixelle-Video (AIDC-AI)](https://github.com/AIDC-AI/Pixelle-Video) - Text-to-video foundation model optimized for long coherent scenes and controllable generation workflows. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Pixelle-Video?style=social)
 - [ViralMint](https://github.com/openclaw-easy/ViralMint) - End-to-end short-video pipeline that scouts trends, transcribes competitors locally, and assembles captioned videos with AI scripts, voice, and stock footage. AGPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/openclaw-easy/ViralMint?style=social)
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - An end-to-end short-video generation pipeline that automates scripts, footage collection, voiceover, and subtitle synthesis. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social)
 - [WhisperLive](https://github.com/collabora/WhisperLive) - Nearly-live implementation of OpenAI's Whisper for real-time speech-to-text transcription. Supports faster-whisper, tensorrt, and openvino backends with WebSocket streaming. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/collabora/WhisperLive?style=social)
 #### Audio / Music / Voice Generation
 
@@ -1109,6 +1110,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - Privacy-focused Obsidian plugin for AI-powered second brain functionality. Chat with your notes using local or remote LLMs including Ollama and OpenAI. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/your-papa/obsidian-Smart2Brain?style=social)
 - [Casibase](https://github.com/casibase/casibase) - Open-source enterprise-level AI knowledge base and agent management platform. Supports multiple LLM providers, RAG, and team collaboration. Apache-2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/casibase/casibase?style=social)
 - [BionicGPT](https://github.com/bionic-gpt/bionic-gpt) - On-prem ChatGPT replacement for teams with assistants, RAG, access controls, auditing, and enterprise deployment features. ![GitHub stars](https://img.shields.io/github/stars/bionic-gpt/bionic-gpt?style=social)
+- [OpenHuman](https://github.com/tinyhumansai/openhuman) - A local-first personal assistant and memory harness with Obsidian integration, model routing, and automatic integration sync. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 
 #### Full Self-hosted AI Platforms
 
@@ -1188,6 +1190,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - Chat and code generation inside notebooks. ![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai?style=social)
 - [Minuet AI](https://github.com/milanglacier/minuet-ai.nvim) - Neovim plugin offering code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more. GPL-3.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim?style=social)
 - [Peekaboo](https://github.com/steipete/Peekaboo) - macOS CLI & MCP server enabling AI agents to capture screenshots and automate UI interactions. Visual question answering through local or remote AI models. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/steipete/Peekaboo?style=social)
+- [Skills](https://github.com/mattpocock/skills) - A collection of custom productivity and engineering skills for Claude Code and other AI coding agents. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/mattpocock/skills?style=social)
+- [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) - Turns subdirectories, codebases, or knowledge bases into an interactive, AI-navigable knowledge graph and dashboard. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=social)
 
 #### UI Components & Chat Libraries
 
